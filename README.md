@@ -41,7 +41,7 @@ me.say_hi()
   <img align="center" alt="cpp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg">
   <img align="center" alt="linux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-plain.svg">
   <img align="center" alt="py" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="right" alt="gif-pic" height="210" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/1017642098637426689/1053308132648038470/ezgif.com-gif-maker.gif">
+  <img align="right" alt="gif-pic" width="210" height="210" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/1017642098637426689/1053308132648038470/ezgif.com-gif-maker.gif">
 </div>
   
 ##
@@ -51,7 +51,8 @@ me.say_hi()
   <a href="https://twitter.com/StalkerFish2" target="_blank"><img src="https://img.shields.io/twitter/url?logo=twitter&style=for-the-badge&url=https%3A%2F%2Ftwitter.com%2FStalkerFish2" target="_blank"></a>
   <a href = "mailto:silva.allison2002@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/allison-silva3/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-   
+  
+<br>
   
  ![Snake animation](https://github.com/Stalkerfish/Stalkerfish/blob/output/github-contribution-grid-snake.svg)
  
